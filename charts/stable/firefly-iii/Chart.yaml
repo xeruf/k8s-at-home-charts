@@ -34,10 +34,8 @@ dependencies:
 annotations:
   artifacthub.io/changes: |-
     - kind: changed
-      description: Added `common` chart dependency to version 4.4.1
+      description: Upgraded `mariadb` chart dependency to version 11.0.9
     - kind: changed
-      description: Added `mariadb` chart dependency to version 11.0.2
+      description: Upgraded `postgresql` chart dependency to version 11.1.29
     - kind: changed
-      description: Added `postgresql` chart dependency to version 11.1.28
-    - kind: changed
-      description: Added `redis` chart dependency to version 16.9.0
+      description: Upgraded `redis` chart dependency to version 16.9.11
